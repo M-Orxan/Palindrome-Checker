@@ -1,1 +1,1 @@
-# Palindrome-Checker
+It is a simple Console program that determines if the given number palindrome is or not.

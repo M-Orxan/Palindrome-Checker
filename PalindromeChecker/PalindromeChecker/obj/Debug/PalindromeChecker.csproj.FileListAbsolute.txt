@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Github Projects\Palindrome-Checker\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe.config
+C:\Users\USER\Desktop\Github Projects\Palindrome-Checker\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.exe
+C:\Users\USER\Desktop\Github Projects\Palindrome-Checker\PalindromeChecker\PalindromeChecker\bin\Debug\PalindromeChecker.pdb
+C:\Users\USER\Desktop\Github Projects\Palindrome-Checker\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Github Projects\Palindrome-Checker\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Github Projects\Palindrome-Checker\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.exe
+C:\Users\USER\Desktop\Github Projects\Palindrome-Checker\PalindromeChecker\PalindromeChecker\obj\Debug\PalindromeChecker.pdb
